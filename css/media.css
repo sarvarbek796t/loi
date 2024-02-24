@@ -1,0 +1,128 @@
+@media(max-width:992px){
+    
+   .cake{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+   .cake-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+}
+
+
+
+@media(max-width:1400px){
+    .info{
+        width: 480px;
+    }
+    .info2{
+        width: 480px;
+    }
+    .info3{
+        width: 480px;
+    }
+    .info4{
+        width: 480px;
+    }
+    .info5{
+        width: 480px;
+    }
+    .info6{
+        width: 480px;
+    }
+    .plastic{
+        display:flex;
+        justify-content: center;
+    }
+    .right{
+        width:670px;
+    }
+    .right1{
+        width:684px;
+    }
+    
+    .blokc{
+        margin: 26px 0 10px 26px;
+    }
+}
+
+@media(max-width:1199px){
+    .blokc3{
+        margin: 26px 0 10px 26px;
+    }
+    .blokc{
+        margin: 26px 0 10px 6px;
+    } 
+    .right{
+        width: 576px;
+    }
+    .right1{
+        width: 576px;
+    }
+    .regist_in{
+        width: 326px;
+        margin-left: 0;
+    }
+    .regist_t{
+        width: 326px;
+        margin-left: 0;
+    }
+    .regist_h6{
+        margin-left: 0;
+        font-size: 30px;
+    }
+    .regist_p{
+        margin-left: 0;
+        
+    }
+    
+    .regist_button{
+        font-size: 26px;
+    }
+}
+
+@media(max-width:990px){
+    .call{
+        width: 100%;
+    }
+    .cake-2{
+        margin-bottom: 10px;
+    }
+    .right{
+        width: 100%;
+    }
+    .right1{
+        width: 100%;
+        margin-top: 5px;
+    }
+    .regist_in{
+        width: 340px;
+    }
+    .regist_t{
+        width:100%;
+    }
+}
+
+
+@media(max-width:768px){
+    .cup{
+        display:flex;
+        justify-content: center;   
+    }
+    
+ .blokc2{
+     margin-top:10px;
+ }
+ .regist_in {
+    width: 249px;
+}
+}
+
+@media(max-width:538px){
+    .regist_in {
+        width: 100%;
+    }
+}
